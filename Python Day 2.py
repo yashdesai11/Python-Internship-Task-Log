@@ -39,7 +39,7 @@ no_input = input("Enter Number of Students : ")
 no = int(no_input)
 
 for index in range(no):
-    dict_name = 's'+str(index)
+    
     
     dict_name = {}
     
